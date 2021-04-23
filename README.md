@@ -1,2 +1,2 @@
-# yeswecutgrass.github.io
-Website for "Yes We Cut Grass"
+# bradenbiz.github.io
+free-hosted website for something, idk what yet
